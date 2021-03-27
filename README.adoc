@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/kabir/blog-quarkus-ui-development)
+
 == Blog post example code
 
 Example code for my blog post at https://quarkus.io/blog/quarkus-and-angular-ui-development-mode/. It consists of
